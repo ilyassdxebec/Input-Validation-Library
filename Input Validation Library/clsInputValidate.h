@@ -55,7 +55,7 @@ public:
 			if (cin.fail())
 			{
 				cin.clear();
-				cin.ignore(numeric_limits<streamsize>::max(), '\n');
+				cin.ignore( numeric_limits <streamsize> ::max(), '\n');
 
 				cout << message << endl;
 			}
@@ -78,7 +78,7 @@ public:
 			if (cin.fail())
 			{
 				cin.clear();
-				cin.ignore(numeric_limits<streamsize>::max(), '\n');
+				cin.ignore( numeric_limits <streamsize> ::max(), '\n');
 
 				cout << message << endl;
 			}
