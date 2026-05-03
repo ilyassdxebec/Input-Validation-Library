@@ -9,7 +9,8 @@ using namespace std;
 class clsInputValidate
 {
 
-public:
+ public:
+
 
 	static bool IsNumberBetween(const int& Number, const int& From, const int& To)
 	{

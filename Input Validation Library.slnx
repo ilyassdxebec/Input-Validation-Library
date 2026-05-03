@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Input Validation Library/Input Validation Library.vcxproj" />
+  <Project Path="Input Validation Library/Input Validation Library.vcxproj" Id="bd613903-3d40-4eb5-9c5e-38a6ea97f7f8" />
 </Solution>
